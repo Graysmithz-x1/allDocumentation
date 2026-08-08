@@ -21,6 +21,8 @@ Jika Docker Desktop belum aktif, Anda bisa memicu aplikasinya langsung lewat ter
 ```cmd
 start "" "C:\Program Files\Docker\Docker\Docker Desktop.exe"
 ```
+atau jika anda merasa ragu **anda bisa menjalankan docker secara manual dengan membuka docker seperti biasa**
+
 *Tunggu sekitar 10-20 detik hingga Docker Engine benar-benar siap.*
 
 ### 2. Kloning Repositori dan Masuk ke Folder Proyek
